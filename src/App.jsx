@@ -26,7 +26,7 @@ function App() {
     }
 
     return (
-        <div className="container mx-auto mt-20">
+        <div className="container mx-auto mt-20 max-w-7xl">
             <Header/>
             <div className="mt-12 md:flex px-15">
                 <Formulario 
